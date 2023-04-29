@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="woche.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-04-29T12:21:34" hostname="Robertos-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="testAdd()" classname="woche.CalculatorTest" time="0.01"/>
+  <testcase name="testSubtract()" classname="woche.CalculatorTest" time="0.0"/>
+  <testcase name="testDivide()" classname="woche.CalculatorTest" time="0.0"/>
+  <testcase name="testMultiply()" classname="woche.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
